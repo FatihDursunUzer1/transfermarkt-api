@@ -6,7 +6,7 @@
     {"src": "/(.*)", "dest": "app/main.py"}
   ],
   "functions":{
-  "/api/endpoints/.*\\.py":{
+  "app/api/**/*.py":{
       "maxDuration":100
     }
   }
