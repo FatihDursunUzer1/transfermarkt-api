@@ -6,7 +6,7 @@
     {"src": "/(.*)", "dest": "app/main.py"}
   ],
   "functions":{
-  "/app/api/endpoints/players.py":{
+  "api/endpoints/players.py":{
       "maxDuration":100
     }
   }
