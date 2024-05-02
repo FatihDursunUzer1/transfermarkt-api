@@ -7,7 +7,7 @@
   ],
   "functions": {
     "api/endpoints/*.py": {
-      "maxDuration": 30 
+      "maxDuration": 35
     }
   }
 }
